@@ -1,0 +1,6 @@
+# One website per line
+https://www.google.com
+github.com
+https://hub.docker.com
+https://www.iie.ac.za
+https://this-site-does-not-exist-12345.com
